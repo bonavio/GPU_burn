@@ -2,7 +2,7 @@
 #
 # GPU Load + PCIe / Thermal Test Script  (v2)
 # Uses dcgmproftester13 for high utilization on RTX PRO 6000 Blackwell
-# Brian_Shin@asus.com
+# himpickup@gmail.com
 
 set -e
 
